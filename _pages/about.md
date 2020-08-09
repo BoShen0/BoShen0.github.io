@@ -15,5 +15,9 @@ redirect_from:
 
 ## Research Interests
 
+<p align="center">
+  <img src="https://boshen0.github.io/images/tensor.jpeg?raw=true" alt="Photo" style="width: 640px;"/> 
+</p>
+
 ## Academic Services
 
